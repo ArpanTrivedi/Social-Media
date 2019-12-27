@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+    <string name="facebook_application_id" translatable="false">2759306780830280</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb2759306780830280</string>
+</resources>
